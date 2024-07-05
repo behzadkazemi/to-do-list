@@ -1,4 +1,4 @@
-![Main Screen](Screenshot%202024-07-05%20152203.png)
+![Main Screen](todo.png)
 
 
 # To-Do List Project
