@@ -49,13 +49,13 @@ function App() {
   return (
     <div className="bg-primary h-screen">
       <div className="bg-secondary h-[200px] flex justify-center items-center">
-        <img src={Logo} />
+        <img src={Logo}  className="h-40 w-40" />
       </div>
 
       <div className=" flex  w-full justify-center items-center relative">
         <div className="flex gap-[8px] h-[54px] w-[736px]  absolute top-50% ">
           <input
-            className="border-none rounded-md  w-full text-base outline-none bg-[#262626] p-4"
+            className="border-none rounded-md  w-full text-base outline-none bg-[#262626] p-4 text-cyan-500"
             placeholder="Add a new task"
             onChange={handleChangeAddTodo}
           />
