@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+
+
+
+# To-Do List Project
+
+This project is a simple To-Do List application created with [Create React App](https://github.com/facebook/create-react-app). It allows users to add, edit, and delete tasks.
+
+## Table of Contents
+
+- [Getting Started with Create React App](#getting-started-with-create-react-app)
+- [Available Scripts](#available-scripts)
+- [Learn More](#learn-more)
+- [Project Features](#project-features)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +84,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Project Features
+
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as completed
+
+## Screenshots
+
+### Main Screen
+
+![Main Screen](./screenshots/main-screen.png)
+
+### Add Task Screen
+
+![Add Task Screen](./screenshots/add-task-screen.png)
+
+## Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request.
+
+---
+
+Happy coding!
